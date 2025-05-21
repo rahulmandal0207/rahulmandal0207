@@ -6,9 +6,25 @@
 💻 Currently diving deep into Python, Angular, ASP.NET, and OpenCV.  
 🔍 Actively looking for opportunities in Software Development / AI-ML / Web Development.
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmandal0207&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ---
 
 ## 🛠️ Tech Stack
+
+**Databases:**  
+<img src="assets/microsoftsqlserver-original.svg" height="40" alt="microsoftsqlserver logo"  >
+
+<br/>
+
+**Frameworks:**  
+<img src="assets/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  >
+<img src="assets/angular-original.svg" height="40" alt="angular logo"  >
+<img src="assets/django-plain.svg" height="40" alt="django logo"  >
+
+<br/>
 
 **Languages:**  
 <img src="assets/csharp-original.svg" height="40" alt="csharp logo"  >
@@ -17,12 +33,21 @@
 <img src="assets/java-original.svg" height="40" alt="java logo"  >
 <img src="assets/python-original.svg" height="40" alt="python logo"  >
 
-**Frameworks:**  
-<img src="assets/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  >
-<img src="assets/angular-original.svg" height="40" alt="angular logo"  >
-<img src="assets/django-plain.svg" height="40" alt="django logo"  >
 
 <br/>
+
+
+**Libraries:** <br/>
+<img src="assets/opencv-original.svg" height="40" alt="opencv logo"  >
+<img src="assets/mediapipe.png" height="40" alt="mediapipe logo"  >
+<img src="assets/UltralyticsYOLO.svg" height="40" alt="UltralyticsYOLO logo"  >
+<img src="assets/pandas-original.svg" height="40" alt="pandas logo"  >
+<img src="assets/numpy-original.svg" height="40" alt="numpy logo"  >
+<img src="assets/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  >
+<img src="assets/matplotlib-original.svg" height="40" alt="matplotlib logo"  >
+
+<br/>
+
 
 **Tools & Platforms:**  
 <img src="assets/git-original.svg" height="40" alt="git logo"  >
@@ -36,17 +61,7 @@
 
 <br/>
 
-**Libraries:** <br/>
-<img src="assets/opencv-original.svg" height="40" alt="opencv logo"  >
-<img src="assets/mediapipe.png" height="40" alt="mediapipe logo"  >
-<img src="assets/UltralyticsYOLO.svg" height="40" alt="UltralyticsYOLO logo"  >
-<img src="assets/pandas-original.svg" height="40" alt="pandas logo"  >
-<img src="assets/numpy-original.svg" height="40" alt="numpy logo"  >
-<img src="assets/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  >
-<img src="assets/matplotlib-original.svg" height="40" alt="matplotlib logo"  >
 
-**Databases:**  
-<img src="assets/microsoftsqlserver-original.svg" height="40" alt="microsoftsqlserver logo"  >
 
 ---
 
