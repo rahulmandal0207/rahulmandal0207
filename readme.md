@@ -17,10 +17,14 @@
 <img src="assets/java-original.svg" height="40" alt="java logo"  >
 <img src="assets/python-original.svg" height="40" alt="python logo"  >
 
+
 **Frameworks:**  
 <img src="assets/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  >
 <img src="assets/angular-original.svg" height="40" alt="angular logo"  >
 <img src="assets/django-plain.svg" height="40" alt="django logo"  >
+
+
+<br/>
 
 **Tools & Platforms:**  
 <img src="assets/git-original.svg" height="40" alt="git logo"  >
@@ -32,8 +36,9 @@
 <img src="assets/visualstudio-original.svg" height="40" alt="visualstudio logo"  >
 <img src="assets/pycharm-original.svg" height="40" alt="pycharm logo"  >
 
-**Libraries:**
+<br/>
 
+**Libraries:** <br/>
 <img src="assets/opencv-original.svg" height="40" alt="opencv logo"  >
 <img src="assets/mediapipe.png" height="40" alt="mediapipe logo"  >
 <img src="assets/UltralyticsYOLO.svg" height="40" alt="UltralyticsYOLO logo"  >
@@ -42,7 +47,6 @@
 <img src="assets/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  >
 <img src="assets/matplotlib-original.svg" height="40" alt="matplotlib logo"  >
 
-OpenCV, MediaPipe, EasyOCR, YOLO (Ultralytics), Pandas, NumPy, Scikit-learn, Matplotlib
 
 **Databases:**  
 <img src="assets/microsoftsqlserver-original.svg" height="40" alt="microsoftsqlserver logo"  >
