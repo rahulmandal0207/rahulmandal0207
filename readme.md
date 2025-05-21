@@ -17,12 +17,10 @@
 <img src="assets/java-original.svg" height="40" alt="java logo"  >
 <img src="assets/python-original.svg" height="40" alt="python logo"  >
 
-
 **Frameworks:**  
 <img src="assets/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  >
 <img src="assets/angular-original.svg" height="40" alt="angular logo"  >
 <img src="assets/django-plain.svg" height="40" alt="django logo"  >
-
 
 <br/>
 
@@ -46,7 +44,6 @@
 <img src="assets/numpy-original.svg" height="40" alt="numpy logo"  >
 <img src="assets/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  >
 <img src="assets/matplotlib-original.svg" height="40" alt="matplotlib logo"  >
-
 
 **Databases:**  
 <img src="assets/microsoftsqlserver-original.svg" height="40" alt="microsoftsqlserver logo"  >
@@ -88,7 +85,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-mandal-462a78360/)  
-📧 Email: your.email@example.com
+📧 Email: rahulkumar397222@gmail.com
 
 ---
 
