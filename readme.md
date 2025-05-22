@@ -90,8 +90,25 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-mandal-462a78360/)  
-📧 Email: rahulkumar397222@gmail.com
+<div>
+  <a style="margin-right: 10px" href="https://www.linkedin.com/in/rahul-kumar-mandal-462a78360" target="_blank">
+    <img src="assets/linkedin-original.svg" width="40" alt="linkedin logo"/>
+  </a>
+  <a  style="margin-right: 10px" href="mailto:rahulkumar397222@gmail.com" target="_blank">
+    <img src="assets/gmail.png" width="40" alt="gmail logo"/>
+  </a>
+  <a style="margin-right: 10px" href="https://www.hackerrank.com/profile/rahulkumar397222" target="_blank">
+    <img src="assets/hackerrank-default.svg" width="40" alt="hackerrank logo"/>
+  </a>
+</div>
+
+---
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vdr310xf4llha5fbcmaktfsgd&unique=true&count=1&width=700)
+
+</div>
 
 ---
 
