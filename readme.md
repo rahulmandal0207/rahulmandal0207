@@ -6,9 +6,7 @@
 💻 Currently diving deep into Python, Angular, ASP.NET, and OpenCV.  
 🔍 Actively looking for opportunities in Software Development / AI-ML / Web Development.
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmandal0207&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 
@@ -33,9 +31,7 @@
 <img src="assets/java-original.svg" height="40" alt="java logo"  >
 <img src="assets/python-original.svg" height="40" alt="python logo"  >
 
-
 <br/>
-
 
 **Libraries:** <br/>
 <img src="assets/opencv-original.svg" height="40" alt="opencv logo"  >
@@ -48,7 +44,6 @@
 
 <br/>
 
-
 **Tools & Platforms:**  
 <img src="assets/git-original.svg" height="40" alt="git logo"  >
 <img src="assets/github-original.svg" height="40" alt="github logo"  >
@@ -60,8 +55,6 @@
 <img src="assets/pycharm-original.svg" height="40" alt="pycharm logo"  >
 
 <br/>
-
-
 
 ---
 
@@ -92,8 +85,6 @@
 ## 🔭 Currently Learning
 
 - ASP.NET Core & advanced Angular
-- Building scalable ML models
-- Improving aptitude & communication skills
 
 ---
 
