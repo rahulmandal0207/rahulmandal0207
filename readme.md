@@ -36,7 +36,7 @@
 **Libraries:** <br/>
 <img src="assets/opencv-original.svg" height="40" alt="opencv logo"  >
 <img src="assets/mediapipe.png" height="40" alt="mediapipe logo"  >
-<img src="assets/UltralyticsYOLO.svg" height="40" alt="UltralyticsYOLO logo"  >
+<img src="assets/UltralyticsYOLO.svg" height="40" alt="UltralyticsYOLO logo">
 <img src="assets/pandas-original.svg" height="40" alt="pandas logo"  >
 <img src="assets/numpy-original.svg" height="40" alt="numpy logo"  >
 <img src="assets/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  >
@@ -106,7 +106,7 @@
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vdr310xf4llha5fbcmaktfsgd&unique=true&count=1&width=700)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vdr310xf4llha5fbcmaktfsgd&unique=true&count=1&width=400)
 
 </div>
 
