@@ -7,7 +7,7 @@
 🔍 Actively looking for opportunities in Software Development / AI-ML / Web Development.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmandal0207&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img src="assets/octocat.png" width="200"/>
 ---
 
 ## 🛠️ Tech Stack
@@ -91,13 +91,13 @@
 ## 📫 Connect with Me
 
 <div>
-  <a style="margin-right: 10px" href="https://www.linkedin.com/in/rahul-kumar-mandal-462a78360" target="_blank">
+  <a  href="https://www.linkedin.com/in/rahul-kumar-mandal-462a78360" target="_blank">
     <img src="assets/linkedin-original.svg" width="40" alt="linkedin logo"/>
   </a>
-  <a  style="margin-right: 10px" href="mailto:rahulkumar397222@gmail.com" target="_blank">
+  <a   href="mailto:rahulkumar397222@gmail.com" target="_blank">
     <img src="assets/gmail.png" width="40" alt="gmail logo"/>
   </a>
-  <a style="margin-right: 10px" href="https://www.hackerrank.com/profile/rahulkumar397222" target="_blank">
+  <a  href="https://www.hackerrank.com/profile/rahulkumar397222" target="_blank">
     <img src="assets/hackerrank-default.svg" width="40" alt="hackerrank logo"/>
   </a>
 </div>
