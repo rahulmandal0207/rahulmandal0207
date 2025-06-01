@@ -8,6 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmandal0207&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="assets/octocat.png" width="200"/>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -92,8 +93,12 @@
 
 <div>
   <a  href="https://www.linkedin.com/in/rahul-kumar-mandal-462a78360" target="_blank">
-    <img src="assets/linkedin-original.svg" width="40" alt="linkedin logo"/>
+    <img src="assets/linkedin_profile.png" width="400" alt="linkedin logo"/>
   </a>
+  <a  href="https://www.linkedin.com/in/rahul-kumar-mandal-462a78360" target="_blank">
+<br/>
+<br/>
+<br/>
   <a   href="mailto:rahulkumar397222@gmail.com" target="_blank">
     <img src="assets/gmail.png" width="40" alt="gmail logo"/>
   </a>
