@@ -100,10 +100,16 @@
 <br/>
 <br/>
   <a   href="mailto:rahulkumar397222@gmail.com" target="_blank">
-    <img src="assets/gmail.png" width="40" alt="gmail logo"/>
+    <img src="assets/gmail.png" width="40" alt="gmail logo"/>  
+    <br>
+    rahulkumar397222@gmail.com
   </a>
+
+  <br/>
   <a  href="https://www.hackerrank.com/profile/rahulkumar397222" target="_blank">
     <img src="assets/hackerrank-default.svg" width="40" alt="hackerrank logo"/>
+    <br>
+    rahulkumar397222
   </a>
 </div>
 
