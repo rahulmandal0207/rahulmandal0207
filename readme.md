@@ -77,6 +77,7 @@
 
 ## 🎓 Certifications
 
+- Dot Net Developer - Alignmycareee
 - Career Essentials in Software Development – Microsoft & LinkedIn
 - Career Essentials in Data Analysis – Microsoft & LinkedIn
 - Learning Power BI Desktop – LinkedIn Learning
