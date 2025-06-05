@@ -73,20 +73,6 @@
   Full-stack application using Angular + ASP.NET + SQL Server to manage academic workflows.  
   _[GitHub Repo](https://github.com/rahulmandal0207/School_ERP)_
 
----
-
-## 🎓 Certifications
-
-- Dot Net Developer - Alignmycareee
-- Career Essentials in Software Development – Microsoft & LinkedIn
-- Career Essentials in Data Analysis – Microsoft & LinkedIn
-- Learning Power BI Desktop – LinkedIn Learning
-
----
-
-## 🔭 Currently Learning
-
-- ASP.NET Core & advanced Angular
 
 ---
 
