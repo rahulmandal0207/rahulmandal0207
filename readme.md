@@ -63,15 +63,15 @@
 
 - 🔍 **Vehicle Registration Plate Recognition**  
   YOLOv8 + EasyOCR-powered plate detection using Python & OpenCV.  
-  _[GitHub Repo](https://github.com/rahulmandal0207/vrpr)_
+  _[Repo](https://github.com/rahulmandal0207/vrpr)_
 
 - 🧠 **Driver Surveillance System**  
   Drowsiness, yawning, and head tilt detection using OpenCV + MediaPipe.  
-  _[GitHub Repo](https://github.com/rahulmandal0207/DSS_backend)_
+  _[Repo](https://github.com/rahulmandal0207/DSS_backend)_
 
 - 🌐 **School ERP System**  
   Full-stack application using Angular + ASP.NET + SQL Server to manage academic workflows.  
-  _[GitHub Repo](https://github.com/rahulmandal0207/School_ERP)_
+  _[Repo](https://github.com/rahulmandal0207/School_ERP)_
 
 
 ---
