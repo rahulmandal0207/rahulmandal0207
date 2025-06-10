@@ -16,7 +16,7 @@
 **Databases:**  
 <img src="assets/microsoftsqlserver-original.svg" height="40" alt="microsoftsqlserver logo"  >
 
-<br/>
+<br/> 
 
 **Frameworks:**  
 <img src="assets/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  >
