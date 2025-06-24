@@ -1,5 +1,5 @@
-<!--# 👋 Hi, I'm Rahul!
-
+# 👋 Hi, I'm Rahul!
+<!--
 ### A passionate Developer | MCA @ GD Goenka University
 
 🚀 Final-year Master's student specializing in full-stack development and machine learning.  
